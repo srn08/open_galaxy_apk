@@ -1,6 +1,6 @@
 # open_galaxy_apk
 
-A new Flutter project.
+App with the Liquid Galaxy Logo and 4 buttons that reveal a bottom sheet when pressed
 
 ## Getting Started
 
